@@ -1,2 +1,2 @@
-def goodbye():
-    print("goodbye world")
+def goodbye(name):
+    print("goodbye " + name)
