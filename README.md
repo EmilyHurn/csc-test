@@ -79,5 +79,16 @@ git rebase --continue
 
 // after rebasing is complete
 git push --force
+
+ ________________________________________
+/ Tyler was here                         \
+\                                        /
+ ----------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       \/\
+                ||----w |
+                ||     ||
+
 ```
 
