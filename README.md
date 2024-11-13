@@ -6,7 +6,7 @@ make sure you have git installed (google) \
 enter the following in your terminal:
 ```
 // in your chosen directory/folder
-https://github.com/EmilyHurn/csc-test.git
+git clone https://github.com/EmilyHurn/csc-test.git
 ```
 
 ## Creating a branch / merge request
