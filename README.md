@@ -63,7 +63,7 @@ git log
 // in the text editor pick the oldest commit and squash the rest
 // see commits in next window and hit :qw
 
-git -i rebase HEAD~<num of commits>
+git rebase -i HEAD~<num of commits>
 git push --force
 
 // these prior steps will "squash" together all of the commits on your branch, so you only have to rebase your branch against
@@ -79,5 +79,16 @@ git rebase --continue
 
 // after rebasing is complete
 git push --force
+
+ ________________________________________
+/ Tyler was here                         \
+\                                        /
+ ----------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       \/\
+                ||----w |
+                ||     ||
+
 ```
 
